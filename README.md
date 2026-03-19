@@ -76,7 +76,8 @@ Multimedial
 
 ```
 
-ejercicio 2
+ejercicio 2:
+
 dos paginas 
 
 ```
