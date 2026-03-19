@@ -75,3 +75,49 @@ Multimedial
 <!-- Fin del documento HTML -->
 
 ```
+
+ejercicio 2
+dos paginas 
+
+```
+pagina 1:
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>Mi sitio</title>
+</head>
+
+<body>
+
+  
+
+<h1>Página principal</h1>
+
+<a href="pagina2.html">Ir a la segunda página</a>
+
+</body>
+</html>
+```
+
+```
+pagina 2
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>Página 2</title>
+<meta charset="UTF-8">
+</head>
+
+<body>
+
+
+<h1>Esta es la segunda página</h1>
+
+<a href="index.html" >Volver a la página principal</a>
+<!--<a href="index.html" target="_blank">Volver a la página principal en otra pestaña</a>-->
+
+<!--<a href="https://www.wikipedia.org" target="_blank"> Ir a Wikipedia</a>-->
+</body>
+</html>
+```
