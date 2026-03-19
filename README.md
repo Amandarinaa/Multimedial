@@ -17,7 +17,7 @@ ejercicio 1
 <meta charset="UTF-8">
 <!-- Define la codificación de caracteres para que se vean bien tildes y símbolos -->
 
-<title>Multimedial</title>
+<title>Femininjaaa</title>
 <!-- Título de la página que aparece en la pestaña del navegador -->
 
 <style>
