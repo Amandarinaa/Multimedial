@@ -65,7 +65,7 @@ body{
 <body>
 <!-- Inicio del contenido visible de la página -->
 
-MULTIMEDIAL
+Femininjaaa
 <!-- Texto que aparece en el centro de la pantalla -->
 
 </body>
