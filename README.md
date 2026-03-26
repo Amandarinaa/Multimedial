@@ -152,8 +152,8 @@ contacto.html
 <a href="index.html">Inicio</a><br>
 <a href="obra.html">Obra</a>
 ```
-# Ejercicio insertar imágenes en cada página.
-## Supongamos que tienes estas imágenes en la misma carpeta:
+## Ejercicio insertar imágenes en cada página.
+### Supongamos que tienes estas imágenes en la misma carpeta:
 obra.jpg contacto.jpg inicio.jpg
 
 ### Ejemplo:
