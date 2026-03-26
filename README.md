@@ -1,8 +1,9 @@
 # Multimedial
+# Indice: 
 
 ### Taller Multimedial
 
-ejercicio 1 
+##ejercicio 1 
 
 ```
 <!DOCTYPE html>
@@ -76,7 +77,7 @@ Multimedial
 
 ```
 
-ejercicio 2:
+##ejercicio 2:
 
 dos paginas 
 
