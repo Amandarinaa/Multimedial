@@ -3,7 +3,7 @@
 
 ### Taller Multimedial
 
-##ejercicio 1 
+## Ejercicio 1: Cear Página
 
 ```
 <!DOCTYPE html>
@@ -77,9 +77,7 @@ Multimedial
 
 ```
 
-##ejercicio 2:
-
-dos paginas 
+## Ejercicio 2: Link a otra página
 
 ```
 pagina 1:
