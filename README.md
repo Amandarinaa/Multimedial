@@ -123,3 +123,115 @@ pagina 2
 </body>
 </html>
 ```
+
+### Ejercicio #: 3 Páginas
+index.html obra.html contacto.html
+
+index.html:
+```
+<h1>Mi sitio</h1>
+
+<a href="obra.html">Obra</a><br>
+<a href="contacto.html">Contacto</a>
+```
+obra.html
+```
+<h1>Mi obra</h1>
+
+<p>Descripción de mi trabajo artístico</p>
+
+<a href="index.html">Inicio</a><br>
+<a href="contacto.html">Contacto</a>
+```
+contacto.html
+```
+<h1>Contacto</h1>
+
+<p>email@email.com</p>
+
+<a href="index.html">Inicio</a><br>
+<a href="obra.html">Obra</a>
+```
+# Ejercicio insertar imágenes en cada página.
+## Supongamos que tienes estas imágenes en la misma carpeta:
+obra.jpg contacto.jpg inicio.jpg
+
+### Ejemplo:
+index.html:
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Inicio</title>
+</head>
+
+<body>
+
+<h1>Mi sitio</h1>
+
+<img src="inicio.jpg" alt="Imagen de inicio" width="300">
+
+<br><br>
+
+<a href="obra.html">Obra</a><br>
+<a href="contacto.html">Contacto</a>
+
+</body>
+</html>
+```
+obra.html:
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Obra</title>
+</head>
+
+<body>
+
+<h1>Mi obra</h1>
+
+<img src="obra.jpg" alt="Imagen de la obra" width="300">
+
+<p>Descripción de mi trabajo artístico</p>
+
+<a href="index.html">Inicio</a><br>
+<a href="contacto.html">Contacto</a>
+
+</body>
+</html>
+```
+contacto.html:
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contacto</title>
+</head>
+
+<body>
+
+<h1>Contacto</h1>
+
+<img src="contacto.jpg" alt="Imagen de contacto" width="300">
+
+<p>email@email.com</p>
+
+<a href="index.html">Inicio</a><br>
+<a href="obra.html">Obra</a>
+
+</body>
+</html>
+```
+### Cosas importantes (errores comunes)
+La imagen debe estar en la misma carpeta o usar rutas correctas El nombre debe coincidir exactamente:
+
+X Obra.jpg ≠ obra.jpg Siempre usar alt (accesibilidad + buenas prácticas)
+
+### Bonus: Hacer la imagen clickeable (como link)
+```
+<a href="obra.html">
+  <img src="inicio.jpg" alt="Ir a obra" width="300">
+</a>
+```
+Esto transforma la imagen en un botón visual.
