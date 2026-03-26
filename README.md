@@ -1,5 +1,5 @@
 # Taller Multimedial De Grado 
-# Indice: 
+## Indice: 
 1. [Crear Página](#ejercicio-1-cear-p%C3%A1gina) <br>
 2. [Link a Otra Página](#ejercicio-2-link-a-otra-p%C3%A1gina) <br>
 
