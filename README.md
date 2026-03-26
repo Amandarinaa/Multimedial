@@ -5,7 +5,7 @@
 
 
 
-## Ejercicio 1: Cear Página
+### Ejercicio 1: Cear Página
 
 ```
 <!DOCTYPE html>
@@ -79,7 +79,7 @@ Multimedial
 
 ```
 
-## Ejercicio 2: Link a otra página
+### Ejercicio 2: Link a otra página
 
 ```
 pagina 1:
