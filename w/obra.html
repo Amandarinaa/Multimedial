@@ -48,7 +48,7 @@ body{
 /* Fin de las reglas de estilo del body */
 
  .contenedor {
-            width: 40%;
+            width: 100%;
             margin: auto;
             display: flex;
             justify-content: space-around;
@@ -64,7 +64,7 @@ body{
 
         /* Imagen */
         .bloque img {
-            width: 80%;
+            width: 100%;
             height: auto;
         }
 
@@ -81,9 +81,9 @@ body{
         }
 
 img { /* Aplica a todas las imágenes */
-  width: 1000px; /* Ancho fijo */
-  height: 800px; /* Alto fijo */
-  object-fit: cover; /* Ajusta la imagen sin deformarla (recorta si es necesario) */
+  max-width: 500px; /* Ancho fijo */
+  height: auto; /* Alto fijo */
+  object-fit: contain; /* Ajusta la imagen sin deformarla (recorta si es necesario) */
   border: 5px solid rgb(0, 0, 0); /* Borde negro de 5px */
 }
 
