@@ -83,12 +83,13 @@ body{
         }
 
 img { /* Aplica a todas las imágenes */
-  width: 1000px; /* Ancho fijo */
-  height: 800px; /* Alto fijo */
-  object-fit: cover; /* Ajusta la imagen sin deformarla (recorta si es necesario) */
-  border: 5px solid rgb(255, 254, 254); /* Borde negro de 5px */
+  max-width: 800px; /* Ancho fijo */
+  height: auto; /* Alto fijo */
+  object-fit: contain; /* Ajusta la imagen sin deformarla (recorta si es necesario) */
+  display: block;
+  margin: 0 auto;
 }
-
+  
 </style>
 <!-- Fin de la sección de estilos -->
 
@@ -111,7 +112,7 @@ img { /* Aplica a todas las imágenes */
 
  <div class="bloque"></div>
              <a href="obra.html">
-             <img src="img/Untitled3_20260323160737.JPG" alt="Imagen de inicio" width="900">
+             <img src="img/Untitled3_20260323160737.JPG" alt="Imagen de inicio" width="800">
              </a> 
 
 </div>
