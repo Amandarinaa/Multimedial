@@ -428,7 +428,7 @@
 
             <figure class="sketch">
               <figcaption>Boceto</figcaption>
-              <img src="https://amandarinaa.github.io/Multimedial/w/img/Screenshot_20261020_162315_Clip_Studio.jpg" alt="Boceto de la obra con texto y fondo oscuro" width="520" height="831">
+   <img src="https://amandarinaa.github.io/Multimedial/w/img/Screenshot_20261020_162315_Clip_Studio.jpg" alt="Boceto de la obra con texto y fondo oscuro" width="520" height="831">
             </figure>
           </div>
         </div>
@@ -457,7 +457,7 @@
 
           <div class="delivery">
             <p>Para finalizar entrego el documento con mi trabajo.</p>
-            <a class="download-link" href="handtracking.toe" download>Descargar documento final .toe</a>
+  <a class="download-link" href="handtracking.toe" download>Descargar documento final .toe</a>
           </div>
         </div>
       </div>
