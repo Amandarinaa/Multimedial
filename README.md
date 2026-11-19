@@ -472,7 +472,9 @@ Esto transforma la imagen en un botón visual.
       <p>La obra consiste en una pantalla o proyección horizontal, de 720 x 1280 píxeles. Dentro de ella hay un fondo negro con palabras blancas que se desplazan horizontalmente por la pantalla; cada línea de palabras dice algo distinto: “ser mujer”, “me permite”, “encontrar lo que amo”. Las palabras no se ven de inmediato en la pantalla; es necesario mover el cursor para poder ir divisando las frases, como si fuera una lupa.</p>
       <figure class="sketch">
         <figcaption>Boceto:</figcaption>
-        <img src="‎https://amandarinaa.github.io/Multimedial/w/img/Screenshot_20261020_162315_Clip%20Studio.jpg‎"/> alt="Boceto de una obra interactiva con un monitor, textos en pantalla y una mano que interactúa con ellos">
+        <img src="‎https://amandarinaa.github.io/Multimedial/w/img/Screenshot_20261020_162315_Clip%20Studio.jpg‎" width="auto" hight="auto" /> <br>
+        alt="Boceto de una obra interactiva con un monitor, textos en pantalla y una mano que interactúa con ellos">
+      
       </figure>
     </div>
   </section>
