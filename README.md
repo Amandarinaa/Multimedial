@@ -406,7 +406,7 @@
               <h3>Primera parte</h3>
               <p>Para el ejercicio I trabajamos con disipación de partículas en imágenes. Luego, en el ejercicio II trabajamos con sliders, y para el ejercicio III trabajamos la creación de un objeto en tres dimensiones.</p>
               <p>Estos tres ejercicios los integré en uno solo, donde puedes interactuar con los tres elementos.</p>
-<a class="download-link" href="sliders.4.toe" download>Descargar ejercicio .toe</a>
+<a class="download-link" href="w/img/sliders.4.toe" download>Descargar ejercicio .toe</a>
             </article>
 
             <article class="exercise-block">
