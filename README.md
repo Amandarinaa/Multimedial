@@ -446,7 +446,7 @@ Esto transforma la imagen en un botón visual.
 </head>
 <body>
   <main>
-    <h1>BITÁCORA</h1>
+    <h1>BITÁCORA TouchDesigner</h1>
     <p>Amanda Solís Biénzobas</p>
   </main>
   <section class="intro-page">
